@@ -1,0 +1,11 @@
+imageio==2.24.0
+tqdm
+imageio-ffmpeg
+av
+matplotlib==3.8.1
+opencv-python==4.8.1.78
+tensorboardX==2.6.2.2
+scikit-image==0.19.3
+lpips==0.1.4
+configargparse==1.7
+
