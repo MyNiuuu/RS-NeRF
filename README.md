@@ -58,4 +58,4 @@ python train_real.py \
 
 ## Acknowledgments
 
-We appreciate for [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) and [BAD-NeRF](https://github.com/WU-CVGL/BAD-NeRF), upon which we build our code implementation. We would also appreciate the code release of [USB-NeRF](https://github.com/WU-CVGL/USB-NeRF) for comparison and evaluation. 
+We appreciate for [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) and [BAD-NeRF](https://github.com/WU-CVGL/BAD-NeRF), upon which we build our code implementation. We would also appreciate the code release of [USB-NeRF](https://github.com/WU-CVGL/USB-NeRF), [rspy](https://github.com/DelinQu/rspy), [JAMNet](https://github.com/GitCVfb/JAMNet), [CVR](https://github.com/GitCVfb/CVR), and [DeepUnroll](https://github.com/ethliup/DeepUnrollNet) for comparison and evaluation. 
