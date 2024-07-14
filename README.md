@@ -54,3 +54,8 @@ python train.py \
 python train_real.py \
 --config configs/real_toy.txt
 ```
+
+
+## Acknowledgments
+
+We appreciate for [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) and [BAD-NeRF](https://github.com/WU-CVGL/BAD-NeRF), upon which we build our code implementation. We would also appreciate the code release of [USB-NeRF](https://github.com/WU-CVGL/USB-NeRF) for comparison and evaluation. 
