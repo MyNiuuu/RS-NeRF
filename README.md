@@ -10,6 +10,7 @@
 <div>
     The University of Tokyo &nbsp; <sup>*</sup> Corresponding Author &nbsp; 
 </div>
+<a href='https://arxiv.org/abs/2407.10267'><img src='https://img.shields.io/badge/ArXiv-PDF-red'></a>
 
 
 In *European Conference on Computer Vision (ECCV) 2024*
